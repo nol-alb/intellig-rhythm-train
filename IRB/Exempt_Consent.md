@@ -17,7 +17,7 @@ Your participation in this study is always voluntary and you may discontinue you
 
 #### Ethics:
 
-This study has been reviewed by the Georgia Tech Institutional Review Board, and has been identified as "Minimal risk research" (Ethics ID ######).
+This study has been reviewed by the Georgia Tech Institutional Review Board, and has been identified as "Minimal risk research" (IRB Number H22373).
 The risks of participating in this study are no greater than any casual music listening or other other normal daily activities.
 
 
@@ -41,7 +41,7 @@ You will not benefit of be compensated for participating in this study.
 #### Contacts and Questions:
 
 For questions, concerns, or complaints about the study, you may contact the Principal Investigator, Dr. Nathaniel Condit-Schultz at: natcs[at]gatech.edu or by telephone (404)-904-1112.
-If you have any questions about your rights as a research subject, you may contact Ms. Melanie Clark, Georgia Institute of Technology at (404) 894-6942.
+If you have any questions about your rights as a research subject, you may contact Georgia Institute of Technology Office of Research Integrity Assurance at IRB@gatech.edu.
 
 ----
 
