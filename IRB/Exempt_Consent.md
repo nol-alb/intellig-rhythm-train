@@ -1,5 +1,5 @@
 ---
-title: Music Production Ear Skill Evaluation
+title: Rhythm Similarity Metrics for Pedagogical Applications
 geometry: margin=1in
 ---
 
@@ -8,10 +8,11 @@ geometry: margin=1in
 
 
 Thank you for your interest in our research study.
-Your participation will ....
+Your participation will help us design better automatic rhythm training systems.
 Your participation is extremely valuable to us and we thank you for helping out!
 
-The study should take approximately 30--40 minutes to complete.
+The study should take approximately 20--30 minutes to complete.
+During the study, we will need to record audio (sound) from your computer microphone, which will require that you grant recording access to your web browser.
 Your participation in this study is always voluntary and you may discontinue your participation at any time.
 
 #### Ethics:
@@ -25,6 +26,9 @@ The risks of participating in this study are no greater than any casual music li
 We will comply with any applicable laws and regulations regarding confidentiality.
 Your responses to the study questions will be entirely anonymous and confidential.
 No personal data will be gathered from you, and your identity will never be associated with your data, published, or disclosed in any way.
+All recorded sound that is not relevant to the study will be deleted;
+However, to assure your confidentiality, make sure not to divulge any personal information during audio recording.
+
 
 To make sure that this research is being carried out in the proper way, the Georgia Institute of Technology IRB may review study records. 
 The Office of Human Research Protections may also look at study records.

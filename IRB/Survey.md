@@ -1,0 +1,16 @@
+Please tell us a little about yourself:
+
+<form action="/action_page.php">
+  <label>Gender:</label>
+  <input type="text"><br><br>
+  <label>Age:</label>
+  <input type="number"><br><br>
+  <label>Are you a musician?</label>
+  <input type="checkbox"><br><br>
+  <label>If yes:</label><br><br>
+  <label>How many years have you regularly practiced?</label>
+  <input type="number"><br><br>
+  <label>What is your primary instrument?</label>
+  <input type="text"><br><br>
+  <input type="submit" value="Continue">
+</form> 
